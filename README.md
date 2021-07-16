@@ -1,5 +1,5 @@
 # CS374FinalProject
-Group Members: Kristina Mancini, Salvatore Ardisi, and Justin Faria
+Collaborators: Kristina Mancini, Salvatore Ardisi, and Justin Faria
 
 
 1. What is/are the problem/s you want to solve? Please provide background based on research.
