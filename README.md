@@ -30,8 +30,6 @@ We will be using a few technologies in developing our application. We are planni
 
 # Design Using Proto.io
 
-Test: [Youtube](https://youtube.com)
-
 Here are screenshots of the designs below:
 
 ![image (1)](https://user-images.githubusercontent.com/85172362/124371765-edcd0f00-dc52-11eb-8c95-55a849d7f564.png)
