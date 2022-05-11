@@ -20,23 +20,24 @@ Pomodoro timer for completing a specific task and break timer, and helpful tips 
 
 There are  many apps on the app store that combine the Pomodoro Technique and organization of assignments/tasks. Three solutions related include: Focus To-Do, Pomodoro Timer, and Egenda. Egenda organizes and manages assignments for classes in a minimalistic fashion. Pomodoro Timer offers a customizable task and break timer. Focus To-Do offers a more complex combination of Egenda and Pomodoro Timer functionalities, such as organization of tasks and an additional timer to each sub task. Our application will be similar to these solutions, but we aim to provide a more minimalistic, beginner friendly, and easy approach in organizing assignments with a Pomodoro timer. Additionally, we would like to add a “Tips” functionality to the app that offers useful tips for staying productive while using organization and time management techniques. See screenshots for the related apps mentioned below.
 
-![Screenshot_20210629-214149](https://user-images.githubusercontent.com/85172362/123892147-06be8300-d928-11eb-9c9b-21efd7920f64.png)
-![Screenshot_20210629-214412](https://user-images.githubusercontent.com/85172362/123892148-07571980-d928-11eb-8fc3-1c5dab2d7017.png)
-![Screenshot_20210629-220913](https://user-images.githubusercontent.com/85172362/123892149-07571980-d928-11eb-90ef-bb797cd19629.png)
+![pic1 1](https://user-images.githubusercontent.com/85172362/167760895-91123d8f-a637-4de9-aade-cfe231b04931.png)
+![pic2 1](https://user-images.githubusercontent.com/85172362/167760947-f4755c35-7a71-4a66-9a2c-c2b87e2a371c.png)
+![pic3 1](https://user-images.githubusercontent.com/85172362/167760955-59520255-cbed-4267-b5e4-83fecc792599.png)
 
 5. What technologies, APIs etc will you be using to develop this solution?
 
-We will be using a few technologies in developing our application. We are planning to use Firebase and Google Task API to store user’s data for assignments and tasks, and consequently be able to delete those tasks when finished. The website to Firebase: https://firebase.google.com/. The website to Google Task API: https://developers.google.com/tasks. Additionally, we will use Google Maps API that will show the nearest places for studying such as libraries, cafes, etc. The website to Google Maps APIs is: https://developers.google.com/maps.
+We will be using a few technologies in developing our application. We are planning to use [Firebase](https://firebase.google.com/) and [Google Task API](https://developers.google.com/tasks) to store user’s data for assignments and tasks, and consequently be able to delete those tasks when finished. Additionally, we will use [Google Maps API](https://developers.google.com/maps) that will show the nearest places for studying such as libraries, cafes, etc. 
 
 # Design Using Proto.io
 
-Here are screenshots of the designs below:
+![design1 (1)](https://user-images.githubusercontent.com/85172362/167761136-01761ba5-db57-40e1-bc97-c20845251705.png)
+![design2 (1)](https://user-images.githubusercontent.com/85172362/167761379-55d2d8cd-434f-4dda-855e-6a933fbe38ca.png)
 
-![image (1)](https://user-images.githubusercontent.com/85172362/124371765-edcd0f00-dc52-11eb-8c95-55a849d7f564.png)
-![image (2)](https://user-images.githubusercontent.com/85172362/124371766-ee65a580-dc52-11eb-99cd-1d621f8e1ff7.png)
-![image (3)](https://user-images.githubusercontent.com/85172362/124371763-edcd0f00-dc52-11eb-8e2c-0b103d9d7eb3.png)
-![image (4)](https://user-images.githubusercontent.com/85172362/124371762-edcd0f00-dc52-11eb-833e-77a3f7fa1ade.png)
-![image (5)](https://user-images.githubusercontent.com/85172362/124371761-edcd0f00-dc52-11eb-8472-0ba8667a01a9.png)
-![image (6)](https://user-images.githubusercontent.com/85172362/124371760-ed347880-dc52-11eb-9086-a37fc62765ea.png)
+![design3](https://user-images.githubusercontent.com/85172362/167761153-5664e0f8-8d2c-453b-b768-1265e2a9352e.png)
+![design4](https://user-images.githubusercontent.com/85172362/167761155-0b1bd224-1c51-424f-9486-7c93e6b43ead.png)
 
-Link to presentation: https://docs.google.com/presentation/d/1KyIsXScGZrTBmN3PNyp9E6RpDBQ_hteTjGJcqx6_F-c/edit?usp=sharing
+![desgin5](https://user-images.githubusercontent.com/85172362/167761601-dba4222c-392a-4eee-bcfa-7d1a5c240779.png)
+![design6](https://user-images.githubusercontent.com/85172362/167761607-5aefe79f-9b08-4172-a66e-5fdb3b414932.png)
+
+
+[Taskdoro Presentation](https://docs.google.com/presentation/d/1KyIsXScGZrTBmN3PNyp9E6RpDBQ_hteTjGJcqx6_F-c/edit?usp=sharing)
