@@ -20,9 +20,9 @@ Pomodoro timer for completing a specific task and break timer, and helpful tips 
 
 There are  many apps on the app store that combine the Pomodoro Technique and organization of assignments/tasks. Three solutions related include: Focus To-Do, Pomodoro Timer, and Egenda. Egenda organizes and manages assignments for classes in a minimalistic fashion. Pomodoro Timer offers a customizable task and break timer. Focus To-Do offers a more complex combination of Egenda and Pomodoro Timer functionalities, such as organization of tasks and an additional timer to each sub task. Our application will be similar to these solutions, but we aim to provide a more minimalistic, beginner friendly, and easy approach in organizing assignments with a Pomodoro timer. Additionally, we would like to add a “Tips” functionality to the app that offers useful tips for staying productive while using organization and time management techniques. See screenshots for the related apps mentioned below.
 
-![pic1 1](https://user-images.githubusercontent.com/85172362/167760895-91123d8f-a637-4de9-aade-cfe231b04931.png)
-![pic2 1](https://user-images.githubusercontent.com/85172362/167760947-f4755c35-7a71-4a66-9a2c-c2b87e2a371c.png)
-![pic3 1](https://user-images.githubusercontent.com/85172362/167760955-59520255-cbed-4267-b5e4-83fecc792599.png)
+![fix1 1](https://user-images.githubusercontent.com/85172362/167762470-bf8ad504-9e47-4264-aa05-f2031332fe9d.png)
+![fix2 1](https://user-images.githubusercontent.com/85172362/167762710-55043f48-b4a2-416c-bbcc-425d4e9eb509.png)
+![fix3 1](https://user-images.githubusercontent.com/85172362/167762715-338d45ff-5f2f-4d93-beea-08877a900359.png)
 
 5. What technologies, APIs etc will you be using to develop this solution?
 
