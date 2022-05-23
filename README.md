@@ -39,5 +39,6 @@ We will be using a few technologies in developing our application. We are planni
 ![desgin5](https://user-images.githubusercontent.com/85172362/167761601-dba4222c-392a-4eee-bcfa-7d1a5c240779.png)
 ![design6](https://user-images.githubusercontent.com/85172362/167761607-5aefe79f-9b08-4172-a66e-5fdb3b414932.png)
 
+# Project Presentation
 
-[Taskdoro Presentation](https://docs.google.com/presentation/d/1KyIsXScGZrTBmN3PNyp9E6RpDBQ_hteTjGJcqx6_F-c/edit?usp=sharing)
+Please see our Taskdoro project presentation [here](https://docs.google.com/presentation/d/1KyIsXScGZrTBmN3PNyp9E6RpDBQ_hteTjGJcqx6_F-c/edit?usp=sharing)
