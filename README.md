@@ -1,4 +1,4 @@
-# Taskdoro - CS374FinalProject
+# Taskdoro - CS374 Final Project
 Collaborators: Kristina Mancini, Salvatore Ardisi, and Justin Faria
 
 
