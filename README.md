@@ -1,9 +1,8 @@
 # Taskdoro - CS374 Final Project
 
-
-https://github.com/kristinamancini/Taskdoro/assets/85172362/68c4c488-643e-4ad6-a2e7-650a4bd5ddad
-
-
+<div align="center">
+  <video src="https://github.com/kristinamancini/Taskdoro/assets/85172362/68c4c488-643e-4ad6-a2e7-650a4bd5ddad" width="400" />
+</div>
 
 Collaborators: Kristina Mancini, Salvatore Ardisi, and Justin Faria
 
